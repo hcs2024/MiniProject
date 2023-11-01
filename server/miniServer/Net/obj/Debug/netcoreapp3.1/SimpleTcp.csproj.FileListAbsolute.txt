@@ -1,0 +1,10 @@
+D:\miniProject\server\miniServer\Net\bin\Debug\netcoreapp3.1\SimpleTcp.deps.json
+D:\miniProject\server\miniServer\Net\bin\Debug\netcoreapp3.1\SimpleTcp.dll
+D:\miniProject\server\miniServer\Net\bin\Debug\netcoreapp3.1\SimpleTcp.pdb
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.csproj.AssemblyReference.cache
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.AssemblyInfoInputs.cache
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.AssemblyInfo.cs
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.csproj.CoreCompileInputs.cache
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.dll
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\SimpleTcp.pdb

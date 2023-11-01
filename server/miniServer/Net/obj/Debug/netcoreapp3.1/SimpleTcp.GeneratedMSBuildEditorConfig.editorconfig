@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SimpleTcp
+build_property.ProjectDir = D:\miniProject\server\miniServer\Net\

@@ -1,0 +1,10 @@
+D:\miniProject\server\miniServer\Net\bin\Debug\netcoreapp3.1\Net.deps.json
+D:\miniProject\server\miniServer\Net\bin\Debug\netcoreapp3.1\Net.dll
+D:\miniProject\server\miniServer\Net\bin\Debug\netcoreapp3.1\Net.pdb
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.csproj.AssemblyReference.cache
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.AssemblyInfoInputs.cache
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.AssemblyInfo.cs
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.csproj.CoreCompileInputs.cache
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.dll
+D:\miniProject\server\miniServer\Net\obj\Debug\netcoreapp3.1\Net.pdb
